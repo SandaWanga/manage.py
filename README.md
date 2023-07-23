@@ -100,7 +100,7 @@ def view_all():
           
     file.close()
 
-
+#
 def view_mine():
     
   file = open("tasks.txt", "r")
